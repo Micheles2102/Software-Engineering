@@ -1,0 +1,8 @@
+Il factory method verrà utilizzato per fornire un computer con vari sistemi operativi 
+Dunque andando ad analizzare infondo tutti i vari schemi:
+
+ConcreteProduct : I vari sistemi operativi(linux,windows,)
+ConcreteCreator:Computer
+Creator:AziendaLella
+Product:SistemaOperativo->interfact
+
